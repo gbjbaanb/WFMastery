@@ -118,7 +118,9 @@
 				[ "Gara Prime", 78 ],
 				[ "Yareli", 79 ],
 				[ "Rhino Prime", 80 ],
-				[ "Nidus Prime", 81 ]
+				[ "Nidus Prime", 81 ],
+				[ "Harrow Prime", 82 ],
+				[ "Caliban", 83 ]
 			]
 		},
 		{
@@ -335,7 +337,9 @@
 					[ "r40" ]
 				],
 				[ "Ambassador", 149 ],
-				[ "Strun Prime", 150 ]
+				[ "Strun Prime", 150 ],
+				[ "Scourge Prime", 151 ],
+				[ "Nataruk", 152 ]
 			]
 		},
 		{
@@ -503,7 +507,8 @@
 					[ "r40" ]
 				],
 				[ "Kompressa", 120 ],
-				[ "Magnus Prime", 121 ]
+				[ "Magnus Prime", 121 ],
+				[ "Knell Prime", 122 ]
 			]
 		},
 		{
@@ -710,7 +715,12 @@
 				],
 				[ "Cadus", 170 ],
 				[ "Ghoul Saw", 171 ],
-				[ "Vastilok", 172 ]
+				[ "Vastilok", 172 ],
+				[ "Korumm", 173 ],
+				[ "Nepheri", 174 ],
+				[ "Venato", 175 ],
+				[ "Verdilac", 176 ],
+				[ "Rumblejack", 177 ]
 			]
 		},
 		{
@@ -753,7 +763,8 @@
 				[ "Rahn Prism", 4 ],
 				[ "Cantic Prism", 5 ],
 				[ "Lega Prism", 6 ],
-				[ "Klamora Prism", 7 ]
+				[ "Klamora Prism", 7 ],
+				[ "Sirocco", 8 ]
 			]
 		},
 		{
