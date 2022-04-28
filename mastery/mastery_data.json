@@ -1,6 +1,6 @@
 {
 	"schema": 1.2,
-	"patch": "30.5.0",
+	"patch": "31.0.3",
 	"sliders": [
 		{ 
 			"name": "Missions",
@@ -120,7 +120,9 @@
 				[ "Rhino Prime", 80 ],
 				[ "Nidus Prime", 81 ],
 				[ "Harrow Prime", 82 ],
-				[ "Caliban", 83 ]
+				[ "Caliban", 83 ],
+				[ "Garuda Prime", 84 ],
+				[ "Gyre", 85 ]
 			]
 		},
 		{
@@ -339,7 +341,11 @@
 				[ "Ambassador", 149 ],
 				[ "Strun Prime", 150 ],
 				[ "Scourge Prime", 151 ],
-				[ "Nataruk", 152 ]
+				[ "Nataruk", 152 ],
+				[ "Nagantaka Prime", 153 ].
+				[ "Phenmor", 154 ],
+				[ "Aeolak", 155 ],
+				[ "Alternox", 156 ]
 			]
 		},
 		{
@@ -508,7 +514,8 @@
 				],
 				[ "Kompressa", 120 ],
 				[ "Magnus Prime", 121 ],
-				[ "Knell Prime", 122 ]
+				[ "Knell Prime", 122 ],
+				[ "Laetum", 123 ]
 			]
 		},
 		{
@@ -720,7 +727,9 @@
 				[ "Nepheri", 174 ],
 				[ "Venato", 175 ],
 				[ "Verdilac", 176 ],
-				[ "Rumblejack", 177 ]
+				[ "Rumblejack", 177 ],
+				[ "Phaedos", 178 ],
+				[ "Hespar", 179 ]
 			]
 		},
 		{
@@ -893,7 +902,8 @@
 					"Kuva Grattler",
 					15,
 					[ "r40" ]
-				]
+				],
+				[ "Corvas Prime", 16 ]
 			]
 		},
 		{
