@@ -1,6 +1,6 @@
 {
 	"schema": 1.2,
-	"patch": "31.0.3",
+	"patch": "31.6.1",
 	"sliders": [
 		{ 
 			"name": "Missions",
@@ -345,7 +345,8 @@
 				[ "Nagantaka Prime", 153 ],
 				[ "Phenmor", 154 ],
 				[ "Aeolak", 155 ],
-				[ "Alternox", 156 ]
+				[ "Alternox", 156 ],
+				[ "Felarx", 157 ]
 			]
 		},
 		{
@@ -729,7 +730,8 @@
 				[ "Verdilac", 176 ],
 				[ "Rumblejack", 177 ],
 				[ "Phaedos", 178 ],
-				[ "Hespar", 179 ]
+				[ "Hespar", 179 ],
+				[ "Innodem", 180 ]
 			]
 		},
 		{
