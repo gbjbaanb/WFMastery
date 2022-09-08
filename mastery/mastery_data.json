@@ -1,11 +1,11 @@
 {
 	"schema": 1.2,
-	"patch": "31.7",
+	"patch": "32.0",
 	"sliders": [
 		{ 
 			"name": "Missions",
-			"count": 233,
-			"total": 14501
+			"count": 238,
+			"total": 27501
 		},
 		{
 			"name": "Junctions",
@@ -19,8 +19,8 @@
 		}, 
 		{
 			"name": "Steel Path Missions",
-			"count": 233,
-			"total": 14501
+			"count": 238,
+			"total": 27501
 		},
 		{
 			"name": "Steel Path Junctions",
@@ -41,11 +41,7 @@
 				[ "Rhino", 5 ],
 				[ "Trinity", 6 ],
 				[ "Volt", 7 ],
-				[
-					"Excalibur Prime",
-					8,
-					[ "founder" ]
-				],
+				[	"Excalibur Prime",  8, [ "founder" ] ],
 				[ "Frost", 9 ],
 				[ "Nyx", 10 ],
 				[ "Banshee", 11 ],
@@ -123,7 +119,8 @@
 				[ "Caliban", 83 ],
 				[ "Garuda Prime", 84 ],
 				[ "Gyre", 85 ],
-				[ "Khora Prime", 86 ]
+				[ "Khora Prime", 86 ],
+				[ "Styanax", 87 ]
 			]
 		},
 		{
@@ -182,51 +179,15 @@
 				[ "Karak Wraith", 49 ],
 				[ "Kohm", 50 ],
 				[ "Komorex", 51 ],
-				[
-					"Kuva Bramma",
-					52,
-					[ "r40" ]
-				],
-				[
-					"Kuva Chakkhurr",
-					53,
-					[ "r40" ]
-				],
-				[
-					"Kuva Drakgoon",
-					54,
-					[ "r40" ]
-				],
-				[
-					"Kuva Hind",
-					55,
-					[ "r40" ]
-				],
-				[
-					"Kuva Karak",
-					56,
-					[ "r40" ]
-				],
-				[
-					"Kuva Kohm",
-					57,
-					[ "r40" ]
-				],
-				[
-					"Kuva Ogris",
-					58,
-					[ "r40" ]
-				],
-				[
-					"Kuva Quartakk",
-					59,
-					[ "r40" ]
-				],
-				[
-					"Kuva Tonkor",
-					60,
-					[ "r40" ]
-				],
+				[ "Kuva Bramma", 52, [ "r40" ] ],
+				[ "Kuva Chakkhurr", 53,	[ "r40" ] ],
+				[ "Kuva Drakgoon", 54, [ "r40" ] ],
+				[ "Kuva Hind", 55, [ "r40" ] ],
+				[ "Kuva Karak", 56, [ "r40" ] ],
+				[ "Kuva Kohm", 57, [ "r40" ] ],
+				[ "Kuva Ogris", 58, [ "r40" ] ],
+				[ "Kuva Quartakk", 59, [ "r40" ] ],
+				[ "Kuva Tonkor", 60, [ "r40" ] ],
 				[ "Lanka", 61 ],
 				[ "Latron", 62 ],
 				[ "Latron Prime", 63 ],
@@ -309,36 +270,12 @@
 				[ "Tenora Prime", 140 ],
 				[ "Carmine Penta", 141 ],
 				[ "Astilla Prime", 142 ],
-				[
-					"Tenet Envoy",
-					143,
-					[ "r40" ]
-				],
-				[
-					"Tenet Tetra",
-					144,
-					[ "r40" ]
-				],
-				[
-					"Tenet Flux Rifle",
-					145,
-					[ "r40" ]
-				],
-				[
-					"Tenet Arca Plasmor",
-					146,
-					[ "r40" ]
-				],
-				[
-					"Kuva Hek",
-					147,
-					[ "r40" ]
-				],
-				[
-					"Kuva Zarr",
-					148,
-					[ "r40" ]
-				],
+				[ "Tenet Envoy", 143, [ "r40" ] ],
+				[ "Tenet Tetra", 144, [ "r40" ] ],
+				[ "Tenet Flux Rifle", 145, [ "r40" ] ],
+				[ "Tenet Arca Plasmor", 146, [ "r40" ] ],
+				[ "Kuva Hek", 147, [ "r40" ] ],
+				[ "Kuva Zarr", 148, [ "r40" ] ],
 				[ "Ambassador", 149 ],
 				[ "Strun Prime", 150 ],
 				[ "Scourge Prime", 151 ],
@@ -347,7 +284,8 @@
 				[ "Phenmor", 154 ],
 				[ "Aeolak", 155 ],
 				[ "Alternox", 156 ],
-				[ "Felarx", 157 ]
+				[ "Felarx", 157 ],
+				[ "Afentis", 158 ]
 			]
 		},
 		{
@@ -406,37 +344,13 @@
 				[ "Kraken", 49 ],
 				[ "Kulstar", 50 ],
 				[ "Kunai", 51 ],
-				[
-					"Kuva Brakk",
-					52,
-					[ "r40" ]
-				],
-				[
-					"Kuva Kraken",
-					53,
-					[ "r40" ]
-				],
-				[
-					"Kuva Nukor",
-					54,
-					[ "r40" ]
-				],
-				[
-					"Kuva Seer",
-					55,
-					[ "r40" ]
-				],
-				[
-					"Kuva Twin Stubbas",
-					56,
-					[ "r40" ]
-				],
+				[ "Kuva Brakk", 52, [ "r40" ] ],
+				[ "Kuva Kraken", 53, [ "r40" ] ],
+				[ "Kuva Nukor", 54, [ "r40" ] ],
+				[ "Kuva Seer", 55, [ "r40" ] ],
+				[ "Kuva Twin Stubbas", 56, [ "r40" ] ],
 				[ "Lato", 57 ],
-				[
-					"Lato Prime",
-					58,
-					[ "founder" ]
-				],
+				[ "Lato Prime", 58, [ "founder" ] ],
 				[ "Lato Vandal", 59 ],
 				[ "Lex", 60 ],
 				[ "Lex Prime", 61 ],
@@ -494,31 +408,16 @@
 				[ "Catabolyst", 113 ],
 				[ "Pandero Prime", 114 ],
 				[ "Epitaph", 115 ],
-				[
-					"Tenet Diplos",
-					116,
-					[ "r40" ]
-				],
-				[
-					"Tenet Spirex",
-					117,
-					[ "r40" ]
-				],
-				[
-					"Tenet Cycron",
-					118,
-					[ "r40" ]
-				],
-				[
-					"Tenet Detron",
-					119,
-					[ "r40" ]
-				],
+				[ "Tenet Diplos", 116, [ "r40" ] ],
+				[ "Tenet Spirex", 117, [ "r40" ] ],
+				[ "Tenet Cycron", 118, [ "r40" ] ],
+				[ "Tenet Detron", 119, [ "r40" ] ],
 				[ "Kompressa", 120 ],
 				[ "Magnus Prime", 121 ],
 				[ "Knell Prime", 122 ],
 				[ "Laetum", 123 ],
-				[ "Hystrix Prime", 124 ]
+				[ "Hystrix Prime", 124 ],
+				[ "Aegrit", 125 ]
 			]
 		},
 		{
@@ -603,11 +502,7 @@
 				[ "Krohkur", 75 ],
 				[ "Kronen", 76 ],
 				[ "Kronen Prime", 77 ],
-				[
-					"Kuva Shildeg",
-					78,
-					[ "r40" ]
-				],
+				[ "Kuva Shildeg", 78, [ "r40" ] ],
 				[ "Lacera", 79 ],
 				[ "Lecta", 80 ],
 				[ "Lesion", 81 ],
@@ -634,11 +529,7 @@
 				[ "Orvius", 102 ],
 				[ "Pangolin Prime", 103 ],
 				[ "Pangolin Sword", 104 ],
-				[
-					"Paracesis",
-					105,
-					[ "r40" ]
-				],
+				[ "Paracesis", 105, [ "r40" ] ],
 				[ "Pathocyst", 106 ],
 				[ "Pennant", 107 ],
 				[ "Plasma Sword", 108 ],
@@ -667,11 +558,7 @@
 				[ "Silva & Aegis", 131 ],
 				[ "Silva & Aegis Prime", 132 ],
 				[ "Skana", 133 ],
-				[
-					"Skana Prime",
-					134,
-					[ "founder" ]
-				],
+				[ "Skana Prime", 134,[ "founder" ] ],
 				[ "Skiajati", 135 ],
 				[ "Stropha", 136 ],
 				[ "Sydon", 137 ],
@@ -703,26 +590,10 @@
 				[ "Halikar Wraith", 163 ],
 				[ "Volnus Prime", 164 ],
 				[ "Prisma Machete", 165 ],
-				[
-					"Tenet Agendus",
-					166,
-					[ "r40" ]
-				],
-				[
-					"Tenet Exec",
-					167,
-					[ "r40" ]
-				],
-				[
-					"Tenet Livia",
-					168,
-					[ "r40" ]
-				],
-				[
-					"Tenet Grigori",
-					169,
-					[ "r40" ]
-				],
+				[ "Tenet Agendus", 166, [ "r40" ] ],
+				[ "Tenet Exec", 167, [ "r40" ] ],
+				[ "Tenet Livia", 168, [ "r40" ] ],
+				[ "Tenet Grigori", 169, [ "r40" ] ],
 				[ "Cadus", 170 ],
 				[ "Ghoul Saw", 171 ],
 				[ "Vastilok", 172 ],
@@ -734,7 +605,8 @@
 				[ "Phaedos", 178 ],
 				[ "Hespar", 179 ],
 				[ "Innodem", 180 ],
-				[ "Dual Keres Prime", 181 ]
+				[ "Dual Keres Prime", 181 ],
+				[ "Slaytra", 182 ]
 			]
 		},
 		{
@@ -892,11 +764,7 @@
 				[ "Grattler", 4 ],
 				[ "Imperator", 5 ],
 				[ "Imperator Vandal", 6 ],
-				[
-					"Kuva Ayanga",
-					7,
-					[ "r40" ]
-				],
+				[ "Kuva Ayanga", 7, [ "r40" ] ],
 				[ "Larkspur", 8 ],
 				[ "Phaedra", 9 ],
 				[ "Velocitus", 10 ],
@@ -904,11 +772,7 @@
 				[ "Mausolon", 12 ],
 				[ "Morgha", 13 ],
 				[ "Prisma Dual Decurion", 14 ],
-				[
-					"Kuva Grattler",
-					15,
-					[ "r40" ]
-				],
+				[ "Kuva Grattler", 15, [ "r40" ] ],
 				[ "Corvas Prime", 16 ]
 			]
 		},
@@ -941,16 +805,8 @@
 			"category": "Necramech",
 			"mastery": 6000,
 			"items": [
-				[
-					"Voidrig",
-					0,
-					[ "r40" ]
-				],
-				[
-					"Bonewidow",
-					1,
-					[ "r40" ]
-				]
+				[ "Voidrig", 0, [ "r40" ] ],
+				[ "Bonewidow", 1, [ "r40" ] ]
 			]
 		},
 		{
