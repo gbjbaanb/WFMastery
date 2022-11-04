@@ -1,6 +1,6 @@
 {
 	"schema": 1.2,
-	"patch": "32.0.9",
+	"patch": "32.1.1",
 	"sliders": [
 		{ 
 			"name": "Missions",
@@ -608,8 +608,9 @@
 				[ "Hespar", 179 ],
 				[ "Innodem", 180 ],
 				[ "Dual Keres Prime", 181 ],
-				[ "Slaytra", 182 ], 
-				[ "Tatsu Prime", 183 ]
+				[ "Slaytra", 182 ],
+				[ "Tatsu Prime", 183 ],
+				[ "Vericres", 184 ]
 			]
 		},
 		{
