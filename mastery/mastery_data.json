@@ -1,6 +1,6 @@
 {
 	"schema": 1.2,
-	"patch": "32.1.1",
+	"patch": "32.2.0",
 	"sliders": [
 		{ 
 			"name": "Missions",
@@ -120,8 +120,9 @@
 				[ "Garuda Prime", 84 ],
 				[ "Gyre", 85 ],
 				[ "Khora Prime", 86 ],
-				[ "Styanax", 87 ], 
-				[ "Revenant Prime", 88 ]
+				[ "Styanax", 87 ],
+				[ "Revenant Prime", 88 ],
+				[ "Voruna", 89 ]
 			]
 		},
 		{
@@ -286,8 +287,10 @@
 				[ "Aeolak", 155 ],
 				[ "Alternox", 156 ],
 				[ "Felarx", 157 ],
-				[ "Afentis", 158 ], 
-				[ "Phantasma Prime", 159 ]
+				[ "Afentis", 158 ],
+				[ "Phantasma Prime", 159 ],
+				[ "Perigale", 160 ],
+				[ "Tenet Ferrox", 161 ]
 			]
 		},
 		{
@@ -419,7 +422,8 @@
 				[ "Knell Prime", 122 ],
 				[ "Laetum", 123 ],
 				[ "Hystrix Prime", 124 ],
-				[ "Aegrit", 125 ]
+				[ "Aegrit", 125 ], 
+				[ "Tenet Plinx", 126 ]
 			]
 		},
 		{
@@ -610,7 +614,8 @@
 				[ "Dual Keres Prime", 181 ],
 				[ "Slaytra", 182 ],
 				[ "Tatsu Prime", 183 ],
-				[ "Vericres", 184 ]
+				[ "Vericres", 184 ],
+				[ "Sarofang", 185 ]
 			]
 		},
 		{
