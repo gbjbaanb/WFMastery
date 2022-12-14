@@ -1,10 +1,10 @@
 {
 	"schema": 1.2,
-	"patch": "32.2.0",
+	"patch": "32.2.5",
 	"sliders": [
 		{ 
 			"name": "Missions",
-			"count": 238,
+			"count": 240,
 			"total": 27501
 		},
 		{
@@ -19,7 +19,7 @@
 		}, 
 		{
 			"name": "Steel Path Missions",
-			"count": 238,
+			"count": 240,
 			"total": 27501
 		},
 		{
@@ -122,7 +122,8 @@
 				[ "Khora Prime", 86 ],
 				[ "Styanax", 87 ],
 				[ "Revenant Prime", 88 ],
-				[ "Voruna", 89 ]
+				[ "Voruna", 89 ],
+				[ "Baruuk", 90 ]
 			]
 		},
 		{
@@ -422,8 +423,9 @@
 				[ "Knell Prime", 122 ],
 				[ "Laetum", 123 ],
 				[ "Hystrix Prime", 124 ],
-				[ "Aegrit", 125 ], 
-				[ "Tenet Plinx", 126 ]
+				[ "Aegrit", 125 ],
+				[ "Tenet Plinx", 126 ],
+				[ "Afuris Prime", 127 ]
 			]
 		},
 		{
@@ -508,7 +510,11 @@
 				[ "Krohkur", 75 ],
 				[ "Kronen", 76 ],
 				[ "Kronen Prime", 77 ],
-				[ "Kuva Shildeg", 78, [ "r40" ] ],
+				[
+					"Kuva Shildeg",
+					78,
+					[ "r40" ]
+				],
 				[ "Lacera", 79 ],
 				[ "Lecta", 80 ],
 				[ "Lesion", 81 ],
@@ -535,7 +541,11 @@
 				[ "Orvius", 102 ],
 				[ "Pangolin Prime", 103 ],
 				[ "Pangolin Sword", 104 ],
-				[ "Paracesis", 105, [ "r40" ] ],
+				[
+					"Paracesis",
+					105,
+					[ "r40" ]
+				],
 				[ "Pathocyst", 106 ],
 				[ "Pennant", 107 ],
 				[ "Plasma Sword", 108 ],
@@ -564,7 +574,11 @@
 				[ "Silva & Aegis", 131 ],
 				[ "Silva & Aegis Prime", 132 ],
 				[ "Skana", 133 ],
-				[ "Skana Prime", 134,[ "founder" ] ],
+				[
+					"Skana Prime",
+					134,
+					[ "founder" ]
+				],
 				[ "Skiajati", 135 ],
 				[ "Stropha", 136 ],
 				[ "Sydon", 137 ],
@@ -596,10 +610,26 @@
 				[ "Halikar Wraith", 163 ],
 				[ "Volnus Prime", 164 ],
 				[ "Prisma Machete", 165 ],
-				[ "Tenet Agendus", 166, [ "r40" ] ],
-				[ "Tenet Exec", 167, [ "r40" ] ],
-				[ "Tenet Livia", 168, [ "r40" ] ],
-				[ "Tenet Grigori", 169, [ "r40" ] ],
+				[
+					"Tenet Agendus",
+					166,
+					[ "r40" ]
+				],
+				[
+					"Tenet Exec",
+					167,
+					[ "r40" ]
+				],
+				[
+					"Tenet Livia",
+					168,
+					[ "r40" ]
+				],
+				[
+					"Tenet Grigori",
+					169,
+					[ "r40" ]
+				],
 				[ "Cadus", 170 ],
 				[ "Ghoul Saw", 171 ],
 				[ "Vastilok", 172 ],
@@ -615,7 +645,8 @@
 				[ "Slaytra", 182 ],
 				[ "Tatsu Prime", 183 ],
 				[ "Vericres", 184 ],
-				[ "Sarofang", 185 ]
+				[ "Sarofang", 185 ],
+				[ "Cobra & Crane prime", 186 ]
 			]
 		},
 		{
