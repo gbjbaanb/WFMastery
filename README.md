@@ -1,6 +1,6 @@
 # WFMastery
 
-A simple ui app for logging completion of the various mastery point awarding things in the game of Warframe. A live environment for use exists at [https://ehwuts.github.io/WFMastery/](https://ehwuts.github.io/WFMastery/). 
+A simple ui app for logging completion of the various mastery point awarding things in the game of Warframe. A live environment for use exists at [https://gbjbaanb.github.io/WFMastery/](https://gbjbaanb.github.io/WFMastery/). 
 
 ## License
 
