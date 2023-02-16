@@ -1,6 +1,6 @@
 {
 	"schema": 1.2,
-	"patch": "32.2.5",
+	"patch": "32.3.1",
 	"sliders": [
 		{ 
 			"name": "Missions",
@@ -123,7 +123,8 @@
 				[ "Styanax", 87 ],
 				[ "Revenant Prime", 88 ],
 				[ "Voruna", 89 ],
-				[ "Baruuk", 90 ]
+				[ "Baruuk Prime", 90 ],
+				[ "Citrine", 91 ]
 			]
 		},
 		{
@@ -291,7 +292,8 @@
 				[ "Afentis", 158 ],
 				[ "Phantasma Prime", 159 ],
 				[ "Perigale", 160 ],
-				[ "Tenet Ferrox", 161 ]
+				[ "Tenet Ferrox", 161 ],
+				[ "Steflos", 162 ]
 			]
 		},
 		{
@@ -646,7 +648,8 @@
 				[ "Tatsu Prime", 183 ],
 				[ "Vericres", 184 ],
 				[ "Sarofang", 185 ],
-				[ "Cobra & Crane prime", 186 ]
+				[ "Cobra & Crane prime", 186 ],
+				[ "Corufell" ]
 			]
 		},
 		{
