@@ -1,6 +1,6 @@
 {
 	"schema": 1.2,
-	"patch": "32.3.1",
+	"patch": "32.3.6",
 	"sliders": [
 		{ 
 			"name": "Missions",
@@ -124,7 +124,8 @@
 				[ "Revenant Prime", 88 ],
 				[ "Voruna", 89 ],
 				[ "Baruuk Prime", 90 ],
-				[ "Citrine", 91 ]
+				[ "Citrine", 91 ],
+				[ "Hildryn Prime", 92 ]
 			]
 		},
 		{
@@ -747,7 +748,8 @@
 				[ "Taxon", 11 ],
 				[ "Wyrm", 12 ],
 				[ "Wyrm Prime", 13 ],
-				[ "Nautilus", 14 ]
+				[ "Nautilus", 14 ],
+				[ "Shade Prime", 15 ]
 			]
 		},
 		{
@@ -775,7 +777,8 @@
 				[ "Verglas", 18 ],
 				[ "Akaten", 19 ],
 				[ "Batoten", 20 ],
-				[ "Lacerten", 21 ]
+				[ "Lacerten", 21 ],
+				[ "Burst Laser prime", 22 ]
 			]
 		},
 		{
@@ -816,7 +819,8 @@
 				[ "Morgha", 13 ],
 				[ "Prisma Dual Decurion", 14 ],
 				[ "Kuva Grattler", 15, [ "r40" ] ],
-				[ "Corvas Prime", 16 ]
+				[ "Corvas Prime", 16 ],
+				[ "Larkspur Prime", 17 ]
 			]
 		},
 		{
