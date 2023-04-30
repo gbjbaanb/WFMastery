@@ -1,6 +1,6 @@
 {
 	"schema": 1.2,
-	"patch": "32.3.6",
+	"patch": "33.0.0",
 	"sliders": [
 		{ 
 			"name": "Missions",
@@ -294,7 +294,8 @@
 				[ "Phantasma Prime", 159 ],
 				[ "Perigale", 160 ],
 				[ "Tenet Ferrox", 161 ],
-				[ "Steflos", 162 ]
+				[ "Steflos", 162 ],
+				[ "Cinta", 163 ]
 			]
 		},
 		{
@@ -650,7 +651,12 @@
 				[ "Vericres", 184 ],
 				[ "Sarofang", 185 ],
 				[ "Cobra & Crane prime", 186 ],
-				[ "Corufell" ]
+				[ "Corufell", 187 ],
+				[ "Sun and Moon", 188 ],
+				[ "Syam", 189 ],
+				[ "Azothane", 190 ],
+				[ "Edun", 191 ],
+				[ "Sampotes", 192 ]
 			]
 		},
 		{
