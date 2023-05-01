@@ -1,8 +1,8 @@
 {
 	"schema": 1.2,
-	"patch": "33.0.0",
+	"patch": "33.0.1",
 	"sliders": [
-		{ 
+		{
 			"name": "Missions",
 			"count": 240,
 			"total": 27501
@@ -13,10 +13,15 @@
 			"value": 1000
 		},
 		{
-			"name": "Intrinsics",
+			"name": "Railjack Intrinsics",
 			"count": 50,
 			"value": 1500
-		}, 
+		},
+		{
+			"name": "Drifter Intrinsics",
+			"count": 40,
+			"value": 1000
+		},
 		{
 			"name": "Steel Path Missions",
 			"count": 240,
