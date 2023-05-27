@@ -1,6 +1,6 @@
 {
-	"schema": 1.2,
-	"patch": "33.0.1",
+	"schema": 1.3,
+	"patch": "33.0.2",
 	"sliders": [
 		{
 			"name": "Missions",
@@ -300,7 +300,8 @@
 				[ "Perigale", 160 ],
 				[ "Tenet Ferrox", 161 ],
 				[ "Steflos", 162 ],
-				[ "Cinta", 163 ]
+				[ "Cinta", 163 ],
+				[ "Prisma Lenz", 164 ]
 			]
 		},
 		{
