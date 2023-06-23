@@ -1,6 +1,6 @@
 {
 	"schema": 1.3,
-	"patch": "33.0.2",
+	"patch": "33.5",
 	"sliders": [
 		{
 			"name": "Missions",
@@ -130,7 +130,8 @@
 				[ "Voruna", 89 ],
 				[ "Baruuk Prime", 90 ],
 				[ "Citrine", 91 ],
-				[ "Hildryn Prime", 92 ]
+				[ "Hildryn Prime", 92 ],
+				[ "Kullervo", 93 ]
 			]
 		},
 		{
@@ -301,7 +302,8 @@
 				[ "Tenet Ferrox", 161 ],
 				[ "Steflos", 162 ],
 				[ "Cinta", 163 ],
-				[ "Prisma Lenz", 164 ]
+				[ "Prisma Lenz", 164 ],
+				[ "Rauta", 165 ]
 			]
 		},
 		{
